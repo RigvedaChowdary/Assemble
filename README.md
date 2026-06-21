@@ -3,7 +3,7 @@
 A modern student collaboration platform built to help college students discover hackathons, find teammates, and build meaningful connections based on skills and interests. ASSEMBLE simplifies team formation and creates opportunities for students to collaborate on projects, competitions, and innovative ideas.
 
 🌐 Live Server: https://assembleproject2026.web.app/
-🔗 GitHub: https://github.com/RigvedaChowdary
+
 🔗 LinkedIn: www.linkedin.com/in/rigvedachowdary  
 
 ## 📌 About the Project
